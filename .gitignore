@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+.env
+model/department_model.pkl
+model/priority_model.pkl
